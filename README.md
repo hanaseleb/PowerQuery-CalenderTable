@@ -10,6 +10,8 @@ Power BI Desktop や DataflowなどのPower Query を扱える製品で、「空
 
 その後、詳細エディターをクリック。最初から入っているコードを削除して、本リポジトリのコードを貼り付けます。
 
+https://github.com/hanaseleb/PowerQuery-CalenderTable/blob/main/CalenderTable.pq
+
 ![image](https://github.com/hanaseleb/PowerQuery-CalenderTable/assets/8947320/d22e3721-e052-4d24-821b-28f0822473d3)
 
 変数を4つ入力をする。
@@ -28,3 +30,7 @@ FirstFiscalYearとStartFiscalMonthの入力をしない場合は会計年関係�
 ex) CalenderTable 
 
 ![image](https://github.com/hanaseleb/PowerQuery-CalenderTable/assets/8947320/6c49e7f9-0cdb-4e4a-8a9c-5c38e03a1116)
+
+# Contribute 
+
+issue、プルリク、大歓迎です～！
